@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\c#\week1\week1\bin\Debug\week1.exe.config
+C:\Users\hp\Desktop\c#\week1\week1\bin\Debug\week1.exe
+C:\Users\hp\Desktop\c#\week1\week1\bin\Debug\week1.pdb
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.Form1.resources
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.Properties.Resources.resources
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.exe
+C:\Users\hp\Desktop\c#\week1\week1\obj\Debug\week1.pdb

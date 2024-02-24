@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\week2\week2\bin\Debug\net8.0-windows\week2.exe
+C:\Users\hp\Desktop\week2\week2\bin\Debug\net8.0-windows\week2.deps.json
+C:\Users\hp\Desktop\week2\week2\bin\Debug\net8.0-windows\week2.runtimeconfig.json
+C:\Users\hp\Desktop\week2\week2\bin\Debug\net8.0-windows\week2.dll
+C:\Users\hp\Desktop\week2\week2\bin\Debug\net8.0-windows\week2.pdb
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.Form1.resources
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.AssemblyInfo.cs
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.dll
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\refint\week2.dll
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.pdb
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\week2.genruntimeconfig.cache
+C:\Users\hp\Desktop\week2\week2\obj\Debug\net8.0-windows\ref\week2.dll
