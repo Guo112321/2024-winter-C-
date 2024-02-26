@@ -25,17 +25,31 @@ namespace Lab3Student
             if (listBox1.SelectedIndex != -1)
             {
                 int totalScore = 0;
-                foreach (int s in Studentslist[listBox1.SelectedIndex].Score)
+                int assignmentsCount = 0;
+                foreach (var assignment in Studentslist[listBox1.SelectedIndex].AssignmentsDetails)
                 {
-                    totalScore += s;
-                };
-                int averageScore = totalScore / Studentslist[listBox1.SelectedIndex].Score.Count;
-                int count = Studentslist[listBox1.SelectedIndex].Score.Count;
-                txtTotal.Text = totalScore.ToString();
-                txtAverage.Text = averageScore.ToString();
-                txtCount.Text = count.ToString();
+                    if (assignment != null) 
+                    {
+                        totalScore += assignment.Score;
+                        assignmentsCount++;
+                    }
+                }
+                if (assignmentsCount != 0) 
+                {
+                    int averageScore = totalScore / assignmentsCount;
+                    txtTotal.Text = totalScore.ToString();
+                    txtAverage.Text = averageScore.ToString();
+                    txtCount.Text = assignmentsCount.ToString();
+                }
+                else
+                {
+                    txtTotal.Text = "0";
+                    txtAverage.Text = "0";
+                    txtCount.Text = "0";
+                }
             }
         }
+
 
         private void buttonPerform_Click(object sender, EventArgs e)
         {

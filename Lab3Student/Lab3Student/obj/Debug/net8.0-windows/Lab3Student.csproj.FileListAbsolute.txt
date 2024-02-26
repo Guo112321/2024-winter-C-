@@ -32,3 +32,4 @@ C:\Users\hp\Desktop\c#\Lab3Student\Lab3Student\obj\Debug\net8.0-windows\Lab3Stud
 C:\Users\hp\Desktop\c#\Lab3Student\Lab3Student\obj\Debug\net8.0-windows\ref\Lab3Student.dll
 C:\Users\hp\Desktop\c#\Lab3Student\Lab3Student\obj\Debug\net8.0-windows\Lab3Student.Form2.resources
 C:\Users\hp\Desktop\c#\Lab3Student\Lab3Student\obj\Debug\net8.0-windows\Lab3Student.Form3.resources
+C:\Users\hp\Desktop\c#\Lab3Student\Lab3Student\obj\Debug\net8.0-windows\Lab3Student.sourcelink.json

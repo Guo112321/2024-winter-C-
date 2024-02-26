@@ -20,20 +20,27 @@ namespace Lab3Student
         public void ExampleStudent()
         {
             string studentName1 = "Joel Garner";
-            List<int> studentScore1 = new List<int> { 97, 91, 83 };
-            Student student1 = new Student(studentName1, studentScore1);
+            Student student1 = new Student("01", studentName1);
+            student1.AssignmentsDetails[0] = new Assignment("001", 97, 100);
+            student1.AssignmentsDetails[1] = new Assignment("002", 91, 100);
+            student1.AssignmentsDetails[2] = new Assignment("003", 83, 100);
             Studentslist.Add(student1);
 
             string studentName2 = "Doug Lowo";
-            List<int> studentScore2 = new List<int> { 99, 93, 97 };
-            Student student2 = new Student(studentName2, studentScore2);
+            Student student2 = new Student("02", studentName2);
+            student2.AssignmentsDetails[0] = new Assignment("001", 99, 100);
+            student2.AssignmentsDetails[1] = new Assignment("002", 93, 100);
+            student2.AssignmentsDetails[2] = new Assignment("003", 97, 100);
             Studentslist.Add(student2);
 
             string studentName3 = "Anne Boehm";
-            List<int> studentScore3 = new List<int> { 100, 100, 100 };
-            Student student3 = new Student(studentName3, studentScore3);
+            Student student3 = new Student("03", studentName3);
+            student3.AssignmentsDetails[0] = new Assignment("001", 100, 100);
+            student3.AssignmentsDetails[1] = new Assignment("002", 100, 100);
+            student3.AssignmentsDetails[2] = new Assignment("003", 100, 100);
             Studentslist.Add(student3);
         }
+
 
         public int CheckScore(string enterScore)
         {
@@ -53,19 +60,19 @@ namespace Lab3Student
             return score;
         }
 
-        public bool AddStudent (string enterName, string enterScore, Student student, List<Student> Studentslist)
+        public bool AddStudent(string enterName, string enterScore, string enterStudentID, string enterStudentAssignmentID, Student student, List<Student> Studentslist)
         {
             int score = CheckScore(enterScore);
             bool result = score == -1;
-            if(result)
+            if (result)
             {
                 return false;
             }
             else
             {
-                if (student.StudentName == "")
+                if (string.IsNullOrEmpty(student.StudentName))
                 {
-                    if (enterName == "")
+                    if (string.IsNullOrEmpty(enterName))
                     {
                         MessageBox.Show("Enter Name please", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return false;
@@ -81,49 +88,103 @@ namespace Lab3Student
                     }
 
                     student.StudentName = enterName;
-                    student.Score.Add(score);
+                    student.StudentID = enterStudentID;
+
+                    if (student.AssignmentsDetails[0] == null)
+                    {
+                        student.AssignmentsDetails[0] = new Assignment();
+                    }
+                    student.AssignmentsDetails[0].AssignmentID = enterStudentAssignmentID;
+                    student.AssignmentsDetails[0].Score = score;
                     return true;
                 }
                 else if (enterName == student.StudentName)
                 {
-                    student.Score.Add(score);
-                    return true;
+                    foreach (var assignment in student.AssignmentsDetails)
+                    {
+                        if (assignment != null && assignment.AssignmentID == enterStudentAssignmentID)
+                        {
+                            MessageBox.Show("Duplicate Assignment ID", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return false;
+                        }
+                    }
+
+                    for (int i = 0; i < student.AssignmentsDetails.Length; i++)
+                    {
+                        if (student.AssignmentsDetails[i] == null)
+                        {
+                            student.AssignmentsDetails[i] = new Assignment();
+                            student.AssignmentsDetails[i].AssignmentID = enterStudentAssignmentID;
+                            student.AssignmentsDetails[i].Score = score;
+                            return true;
+                        }
+                    }
+                    MessageBox.Show("Student has reached the maximum number of assignments", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return false;
                 }
                 else
                 {
                     student.StudentName = enterName;
-                    student.Score.Add(score);
+                    student.StudentID = enterStudentID;
+
+                    if (student.AssignmentsDetails[0] == null)
+                    {
+                        student.AssignmentsDetails[0] = new Assignment();
+                    }
+                    student.AssignmentsDetails[0].AssignmentID = enterStudentAssignmentID;
+                    student.AssignmentsDetails[0].Score = score;
                     return true;
                 }
             }
-            
         }
 
-        public bool UpdataStudentNewScore (string enterScore, Student student)
+
+
+        public bool UpdataStudentNewScore(string enterScore, Student student)
         {
-            if(CheckScore(enterScore) == -1)
+            int score = CheckScore(enterScore);
+            if (score == -1)
             {
                 return false;
             }
             else
             {
-                student.Score.Add(CheckScore(enterScore));
-                return true;
+                for (int i = 0; i < student.AssignmentsDetails.Length; i++)
+                {
+                    if (student.AssignmentsDetails[i] == null)
+                    {
+                        student.AssignmentsDetails[i] = new Assignment();
+                        student.AssignmentsDetails[i].Score = score;
+                        return true;
+                    }
+                }
+                MessageBox.Show("Student has reached the maximum number of assignments", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
             }
         }
 
         public bool UpdateStudentUpdateScore(string enterScore, Student student, int index)
         {
-            if (CheckScore(enterScore) == -1)
+            int score = CheckScore(enterScore);
+            if (score == -1)
             {
                 return false;
             }
             else
             {
-                student.Score[index] = CheckScore(enterScore);
-                return true;
+                if (index >= 0 && index < student.AssignmentsDetails.Length)
+                {
+                    student.AssignmentsDetails[index].Score = score;
+                    return true;
+                }
+                else
+                {
+                    MessageBox.Show("Invalid assignment index", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return false;
+                }
             }
         }
+
 
         public void DeleteStudent(int index)
         {

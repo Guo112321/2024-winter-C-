@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|c:\\users\\hp\\desktop\\c#\\lab3student\\lab3student\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|c:\\users\\hp\\desktop\\c#\\lab3student\\lab3student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|c:\\users\\hp\\desktop\\c#\\lab3student\\lab3student\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|c:\\users\\hp\\desktop\\c#\\lab3student\\lab3student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\lab3student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\lab3student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\lab3student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Assignment.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Assignment.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Assignment.cs",
+              "RelativeToolTip": "Lab3Student\\Assignment.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:17:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Student.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Student.cs",
+              "RelativeToolTip": "Lab3Student\\Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:06:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\StudentDB.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\StudentDB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\StudentDB.cs",
+              "RelativeToolTip": "Lab3Student\\StudentDB.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAlwFwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:25:48.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form2.cs",
+              "RelativeToolTip": "Lab3Student\\Form2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:50:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form1.cs",
+              "RelativeToolTip": "Lab3Student\\Form1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T21:24:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form3.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeToolTip": "Lab3Student\\Form3.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T03:04:07.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Lab3Student\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T21:24:30.212Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Lab3Student\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:22:35.163Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form3.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\c#\\Lab3Student\\Lab3Student\\Form3.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Lab3Student\\Form3.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T02:59:53.125Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

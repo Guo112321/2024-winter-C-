@@ -9,29 +9,40 @@ namespace Lab3Student
 {
     public class Student
     {
-        public string StudentName {  get; set; }
-        public List<int> Score = new List<int> { };
-        public Student(string studentName, List<int> score) 
+        public string StudentID { get; set; }
+        public string StudentName { get; set; }
+        public double TotalScore { get; set; }
+        public double TotalMaxScore { get; set; }
+        public Assignment[] AssignmentsDetails { get; set; }
+
+        public Student(string studentID, string studentName)
         {
-            this .StudentName = studentName;
-            this .Score = score;
+            this.StudentID = studentID;
+            this.StudentName = studentName;
+            AssignmentsDetails = new Assignment[5];
         }
 
         public Student()
         {
-            this.StudentName = "";
-            this.Score = new List<int>();
+            AssignmentsDetails = new Assignment[5];
         }
 
         public override string ToString()
         {
             string studentInfo = StudentName;
-            foreach (int i in Score)
+            if (AssignmentsDetails != null)
             {
-                studentInfo += "|";
-                studentInfo += i.ToString();
+                foreach (var assignment in AssignmentsDetails)
+                {
+                    if (assignment != null) 
+                    {
+                        studentInfo += "|";
+                        studentInfo += assignment.Score.ToString();
+                    }
+                }
             }
             return studentInfo;
         }
+
     }
 }

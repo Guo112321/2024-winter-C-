@@ -33,11 +33,15 @@ namespace Lab3Student
         {
             labelStudentInfo.Text = student.StudentName;
             ScoreListBox.Items.Clear();
-            foreach (int i in student.Score)
+            foreach (var assignment in student.AssignmentsDetails)
             {
-                ScoreListBox.Items.Add(i);
+                if (assignment != null)
+                {
+                    ScoreListBox.Items.Add($"Assignment ID: {assignment.AssignmentID}, Score: {assignment.Score}");
+                }
             }
         }
+
 
 
         private void ScoreListBox_SelectedIndexChanged(object sender, EventArgs e)

@@ -24,7 +24,7 @@ namespace Lab3Student
 
         private void btnAddScore_Click(object sender, EventArgs e)
         {
-            bool result = DB.AddStudent(txtStudentName.Text, txtStudentScore.Text, student, Studentslist);
+            bool result = DB.AddStudent(txtStudentName.Text, txtStudentScore.Text, txtStudentID.Text, txtsStudentScoreID.Text, student, Studentslist);
             if (!result)
             {
                 return;
