@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment.csproj|c:\\users\\hp\\desktop\\assignment2\\lab3student\\lab3student\\assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment.csproj|solutionrelative:lab3student\\assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment.csproj|c:\\users\\hp\\desktop\\assignment2\\lab3student\\lab3student\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment.csproj|solutionrelative:lab3student\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment3.csproj|C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Assignment3.csproj|solutionrelative:lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\lab3student\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\lab3student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C721A495-E3F7-45E3-88D8-78BCB96B1ACE}|Lab3Student\\Lab3Student.csproj|solutionrelative:lab3student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\StudentDB.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\StudentDB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\StudentDB.cs",
+              "RelativeToolTip": "Lab3Student\\StudentDB.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAUwJwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:25:48.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Assignment.csproj",
+              "RelativeDocumentMoniker": "Lab3Student\\Assignment.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Assignment.csproj",
+              "RelativeToolTip": "Lab3Student\\Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T18:38:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3Student.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Assignment.csproj",
+              "RelativeDocumentMoniker": "Lab3Student\\Assignment.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Assignment.csproj",
+              "RelativeToolTip": "Lab3Student\\Assignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T18:32:36.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Student.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Student.cs",
+              "RelativeToolTip": "Lab3Student\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:00:59.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form3.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Form3.cs [Design]",
+              "RelativeToolTip": "Lab3Student\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:57:15.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeDocumentMoniker": "Lab3Student\\Form3.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment2\\Lab3Student\\Lab3Student\\Form3.cs",
+              "RelativeToolTip": "Lab3Student\\Form3.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAtwC8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T03:04:07.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
